@@ -6,7 +6,7 @@ SPDocGen - SharePoint 2013 Documentation Generator
 Upgraded version of [SPDocGen - SharePoint Documentation Generator](https://spdocgen.codeplex.com/) by [SharePointSezai](https://www.codeplex.com/site/users/view/SharePointSezai) which works for MOSS 2007.
 An upgraded version for SharePoint 2010 can be found [here](https://lekman.codeplex.com/releases/view/55953) by [Tobias Lekman](https://www.codeplex.com/site/users/view/Lekman).
 
-You can download the executables [here](https://github.com/siaf/SP15DocGen/tree/master/binary)
+You can download the executables [here](https://github.com/siaf/SP15DocGen/tree/master/Binary)
 
 ## Project Description#
 Automatically generate SharePoint Farm Documentation in a few seconds.
