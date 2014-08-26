@@ -13,7 +13,7 @@ Automatically generate SharePoint Farm Documentation in a few seconds.
 
 The application uses the SharePoint Object Model API to produce an XML file containing data from a SharePoint Farm Deployment. The XML file is then transformed into a .doc file (WordML) via XSLT. 
 
-1. Unzip to a folder on a WSS 3.0 or MOSS 2007 server.
+1. Unzip to a folder on a SharePoint 2013 server.
 2. Logon to the server as a Farm Administrator with permissions to write to the folder that Sezai.SPDocGen.Console.exe runs from.
 3. Produces an XML and DOC file as output, modify the XSLT file as you like.
 
